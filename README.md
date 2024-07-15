@@ -1,6 +1,12 @@
 # Afame-Technologies
 Data Analyst internship Project are in this Afame Technologies repository
 # Afame Technologies
+<h1 align="center" font-size:16px"><b>Titanic</b></h1>
+
+
+<p align="center">
+  <img src="http://media.giphy.com/media/1Nk9bIidJVTy0/giphy.gif" width="500px">
+</p>
 
 ## Projects
 
