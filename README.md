@@ -50,6 +50,28 @@ Data Analyst internship Project are in this Afame Technologies repository
   5. Model Evaluation
 - **Dataset**: The dataset contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
 - **Findings**: Summarize key insights and model performance.
+## Dependencies 
+
+- ```Python3```
+- ```Numpy```
+- ```Pandas```
+- ```Matplotlib```
+- ```Supervised Learning```
+- ```Machine Learning Algorithm```
+- ```Classification Algorithms```
+## This Notebook will show basic examples of:
+
+- Data Handling
+- Importing Data with Pandas
+- Cleaning Data
+- Exploring Data through Visualizations with Matplotlib
+
+## Data Analysis
+Supervised Machine learning Techniques: + Logit Regression Model + Plotting results + Support Vector Machine (SVM) using 3 kernels + Basic Random Forest + Plotting results
+
+## Valuation of the Analysis
+- K-folds cross validation to valuate results locally
+- Output the results from the IPython Notebook to Kaggle
 
 ## How to Run the Code
 - Clone the repository.
