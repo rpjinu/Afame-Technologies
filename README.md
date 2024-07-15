@@ -19,7 +19,7 @@ Data Analyst internship Project are in this Afame Technologies repository
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/0gSP8JW90N2tYXo4p1/giphy.gif?cid=790b7611q1omny7rm72vx0buxaa5tvfneu53ivcxmcsfghay&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500px">
+  <img src="https://media.giphy.com/media/ZuSExqj6nOY59nEYsm/giphy.gif?cid=790b7611q1omny7rm72vx0buxaa5tvfneu53ivcxmcsfghay&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px">
 </p>
 - **Goal**: Use sales data to find patterns, best-selling items, and revenue indicators to help in business decision-making.
 - **Steps**:
