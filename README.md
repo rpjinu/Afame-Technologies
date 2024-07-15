@@ -50,15 +50,7 @@ Data Analyst internship Project are in this Afame Technologies repository
   5. Model Evaluation
 - **Dataset**: The dataset contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived.
 - **Findings**: Summarize key insights and model performance.
-## Dependencies 
 
-- ```Python3```
-- ```Numpy```
-- ```Pandas```
-- ```Matplotlib```
-- ```Supervised Learning```
-- ```Machine Learning Algorithm```
-- ```Classification Algorithms```
 ## This Notebook will show basic examples of:
 
 - Data Handling
@@ -80,5 +72,13 @@ Supervised Machine learning Techniques: + Logit Regression Model + Plotting resu
 - Run the Jupyter notebooks or Python scripts.
 
 ## Dependencies
-- List any libraries or packages required to run the code.
+- List any libraries or packages required to run the code. 
+
+- ```Python3```
+- ```Numpy```
+- ```Pandas```
+- ```Matplotlib```
+- ```Supervised Learning```
+- ```Machine Learning Algorithm```
+- ```Classification Algorithms```
 
