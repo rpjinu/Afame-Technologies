@@ -38,7 +38,7 @@ Data Analyst internship Project are in this Afame Technologies repository
 
 
 <p align="center">
-  <img src="[http://media.giphy.com/media/1Nk9bIidJVTy0/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNwdjFxeHhyaTE4YTNvZnExdjd6cjRnY2ZtZXh1aHJ6eWp5bGp6ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OJw4CDbtu0jde/giphy.gif)" width="500px">
+  <img src="https://media.giphy.com/media/1Nk9bIidJVTy0/giphy.gif" width="500px">
 </p>
 
 - **Goal**: Build a model that predicts whether a passenger on the Titanic survived or not.
