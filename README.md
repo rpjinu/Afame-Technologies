@@ -43,7 +43,6 @@ Data Analyst internship Project are in this Afame Technologies repository
 
 ## How to Run the Code
 - Clone the repository.
--  ```bash
   git clone https://github.com/your-username/Afame-Technologies.git
 - Navigate to the respective project folder.
 - Run the Jupyter notebooks or Python scripts.
